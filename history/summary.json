@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 312,
-    "timeWeek": 334,
-    "timeMonth": 240,
+    "timeDay": 224,
+    "timeWeek": 329,
+    "timeMonth": 242,
     "timeYear": 246,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/archive.swiftdevelopers.jp.ico",
     "slug": "archive-swiftdevelopers-jp",
     "status": "up",
-    "uptime": "93.57%",
+    "uptime": "93.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
     "time": 665,
-    "timeDay": 394,
-    "timeWeek": 541,
-    "timeMonth": 385,
+    "timeDay": 384,
+    "timeWeek": 551,
+    "timeMonth": 386,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2025-09-27": 52,
@@ -65,8 +65,7 @@
       "2024-12-10": 28,
       "2024-11-20": 56,
       "2024-11-19": 45,
-      "2024-11-09": 20,
-      "2024-11-05": 32
+      "2024-11-09": 20
     }
   }
 ]
