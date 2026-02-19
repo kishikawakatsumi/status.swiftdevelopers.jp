@@ -25,13 +25,13 @@
     "url": "https://archive.swiftdevelopers.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/archive.swiftdevelopers.jp.ico",
     "slug": "archive-swiftdevelopers-jp",
-    "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "23.89%",
+    "status": "down",
+    "uptime": "98.13%",
+    "uptimeDay": "25.53%",
     "uptimeWeek": "80.68%",
     "uptimeMonth": "95.26%",
     "uptimeYear": "94.79%",
-    "time": 1221,
+    "time": 1222,
     "timeDay": 3867,
     "timeWeek": 1937,
     "timeMonth": 1651,
@@ -71,7 +71,7 @@
       "2025-12-20": 373,
       "2025-12-19": 121,
       "2025-12-18": 333,
-      "2025-12-17": 468
+      "2025-12-17": 435
     }
   }
 ]
