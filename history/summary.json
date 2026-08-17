@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 247,
-    "timeDay": 121,
-    "timeWeek": 245,
+    "timeDay": 247,
+    "timeWeek": 241,
     "timeMonth": 219,
     "timeYear": 239,
     "dailyMinutesDown": {
@@ -27,17 +27,17 @@
     "slug": "archive-swiftdevelopers-jp",
     "status": "up",
     "uptime": "90.17%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "97.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "97.97%",
     "uptimeYear": "67.88%",
     "time": 1764,
-    "timeDay": 16018,
-    "timeWeek": 5625,
+    "timeDay": 16108,
+    "timeWeek": 5621,
     "timeMonth": 4351,
     "timeYear": 1878,
     "dailyMinutesDown": {
-      "2025-12-28": 44,
+      "2025-12-28": 61,
       "2025-12-29": 1006,
       "2026-01-13": 1347,
       "2026-01-12": 1440,
@@ -180,8 +180,7 @@
       "2026-07-30": 90,
       "2026-08-04": 136,
       "2026-08-10": 26,
-      "2026-08-13": 28,
-      "2026-08-16": 14
+      "2026-08-13": 28
     }
   }
 ]
