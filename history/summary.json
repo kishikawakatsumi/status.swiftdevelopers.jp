@@ -25,19 +25,18 @@
     "url": "https://archive.swiftdevelopers.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/archive.swiftdevelopers.jp.ico",
     "slug": "archive-swiftdevelopers-jp",
-    "status": "down",
+    "status": "up",
     "uptime": "90.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "67.89%",
-    "time": 1971,
-    "timeDay": 24528,
-    "timeWeek": 13778,
-    "timeMonth": 6558,
-    "timeYear": 2217,
+    "time": 1987,
+    "timeDay": 21920,
+    "timeWeek": 13795,
+    "timeMonth": 6695,
+    "timeYear": 2234,
     "dailyMinutesDown": {
-      "2025-12-29": 913,
       "2026-01-13": 1347,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -53,6 +52,7 @@
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
+      "2025-12-29": 897,
       "2026-01-20": 48,
       "2026-01-21": 38,
       "2026-02-01": 44,
@@ -184,7 +184,8 @@
       "2026-08-24": 27,
       "2026-08-30": 22,
       "2026-09-09": 21,
-      "2026-09-10": 17
+      "2026-09-10": 17,
+      "2026-09-11": 45
     }
   }
 ]
